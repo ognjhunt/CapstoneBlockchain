@@ -1,0 +1,42 @@
+Block ID: 0
+Timestamp: 2022-05-09 19:41:42.155958
+Hash of the block: e4b5b9cda1fb1d1ad97e9da320ac7a42e052f1c94278a00ee435618b6a27f4e7
+Previous Block Hash:  
+data: genesis block transaction
+
+
+Block ID #1
+Timestamp:2022-05-09 19:41:42.156277
+Hash of the block:e49ff04be6672113aec477a36324a452db42b6ffde8cc774cdc8512f229f8b17
+Previous Block Hash:e4b5b9cda1fb1d1ad97e9da320ac7a42e052f1c94278a00ee435618b6a27f4e7
+data:
+
+
+Block ID #2
+Timestamp:2022-05-09 19:41:44.801213
+Hash of the block:d2f594fe37903b8e6dcd7f51075057bf851a110b7f2fcc76d21ccac316639ba2
+Previous Block Hash:e49ff04be6672113aec477a36324a452db42b6ffde8cc774cdc8512f229f8b17
+data:ID: 1; Project Code: 100-CI-T01; PQ #: Pre-PQ Process; PO / SO #: SCMS-4; ASN/DN #: ASN-8; Country: Côte d'Ivoire; Managed By: PMO - US; Fulfill Via: Direct Drop; Vendor INCO Term: EXW; Shipment Mode: Air; PQ First Sent to Client Date: Pre-PQ Process; PO Sent to Vendor Date: Date Not Captured; Scheduled Delivery Date: 2006-06-02 00:00:00; Delivered to Client Date: 2006-06-02 00:00:00; Delivery Recorded Date: 2006-06-02 00:00:00; Product Group: HRDT; Sub Classification: HIV test; Vendor: RANBAXY Fine Chemicals LTD.; Item Description: HIV, Reveal G3 Rapid HIV-1 Antibody Test, 30 Tests; Molecule/Test Type: HIV, Reveal G3 Rapid HIV-1 Antibody Test; Brand: Reveal; Dosage: nan; Dosage Form: Test kit; Unit of Measure (Per Pack): 30; Line Item Quantity: 19; Line Item Value: 551.0; Pack Price: 29.0; Unit Price: 0.97; Manufacturing Site: Ranbaxy Fine Chemicals LTD; First Line Designation: Yes; Weight (Kilograms): 13; Freight Cost (USD): 780.34; Line Item Insurance (USD): nan
+
+
+Block ID #3
+Timestamp:2022-05-09 19:41:47.106152
+Hash of the block:b0f3bc9529229b4d6539fbbfbb5f7641abfd460591ebfa96c258bce31a125ce6
+Previous Block Hash:d2f594fe37903b8e6dcd7f51075057bf851a110b7f2fcc76d21ccac316639ba2
+data:ID: 3; Project Code: 108-VN-T01; PQ #: Pre-PQ Process; PO / SO #: SCMS-13; ASN/DN #: ASN-85; Country: Vietnam; Managed By: PMO - US; Fulfill Via: Direct Drop; Vendor INCO Term: EXW; Shipment Mode: Air; PQ First Sent to Client Date: Pre-PQ Process; PO Sent to Vendor Date: Date Not Captured; Scheduled Delivery Date: 2006-11-14 00:00:00; Delivered to Client Date: 2006-11-14 00:00:00; Delivery Recorded Date: 2006-11-14 00:00:00; Product Group: ARV; Sub Classification: Pediatric; Vendor: Aurobindo Pharma Limited; Item Description: Nevirapine 10mg/ml, oral suspension, Bottle, 240 ml; Molecule/Test Type: Nevirapine; Brand: Generic; Dosage: 10mg/ml; Dosage Form: Oral suspension; Unit of Measure (Per Pack): 240; Line Item Quantity: 1000; Line Item Value: 6200.0; Pack Price: 6.2; Unit Price: 0.03; Manufacturing Site: Aurobindo Unit III, India; First Line Designation: Yes; Weight (Kilograms): 358; Freight Cost (USD): 4521.5; Line Item Insurance (USD): nan
+
+
+Block ID #4
+Timestamp:2022-05-09 19:41:49.431949
+Hash of the block:d3c0aa572015b123a9e3801a51d96f28763f091b3dda44349f85b59c7fbfc327
+Previous Block Hash:b0f3bc9529229b4d6539fbbfbb5f7641abfd460591ebfa96c258bce31a125ce6
+data:ID: 4; Project Code: 100-CI-T01; PQ #: Pre-PQ Process; PO / SO #: SCMS-20; ASN/DN #: ASN-14; Country: Côte d'Ivoire; Managed By: PMO - US; Fulfill Via: Direct Drop; Vendor INCO Term: FCA; Shipment Mode: Air; PQ First Sent to Client Date: Pre-PQ Process; PO Sent to Vendor Date: Date Not Captured; Scheduled Delivery Date: 2006-08-27 00:00:00; Delivered to Client Date: 2006-08-27 00:00:00; Delivery Recorded Date: 2006-08-27 00:00:00; Product Group: HRDT; Sub Classification: HIV test; Vendor: Abbott GmbH & Co. KG; Item Description: HIV 1/2, Determine Complete HIV Kit, 100 Tests; Molecule/Test Type: HIV 1/2, Determine Complete HIV Kit; Brand: Determine; Dosage: nan; Dosage Form: Test kit; Unit of Measure (Per Pack): 100; Line Item Quantity: 500; Line Item Value: 40000.0; Pack Price: 80.0; Unit Price: 0.8; Manufacturing Site: ABBVIE GmbH & Co.KG Wiesbaden; First Line Designation: Yes; Weight (Kilograms): 171; Freight Cost (USD): 1653.78; Line Item Insurance (USD): nan
+
+
+Block ID #5
+Timestamp:2022-05-09 19:41:51.736557
+Hash of the block:2d927abd89019d1b71e64e654a4e11a2829186615fce8477622f2a1d2d5ec1d4
+Previous Block Hash:d3c0aa572015b123a9e3801a51d96f28763f091b3dda44349f85b59c7fbfc327
+data:ID: 15; Project Code: 108-VN-T01; PQ #: Pre-PQ Process; PO / SO #: SCMS-78; ASN/DN #: ASN-50; Country: Vietnam; Managed By: PMO - US; Fulfill Via: Direct Drop; Vendor INCO Term: EXW; Shipment Mode: Air; PQ First Sent to Client Date: Pre-PQ Process; PO Sent to Vendor Date: Date Not Captured; Scheduled Delivery Date: 2006-09-01 00:00:00; Delivered to Client Date: 2006-09-01 00:00:00; Delivery Recorded Date: 2006-09-01 00:00:00; Product Group: ARV; Sub Classification: Adult; Vendor: SUN PHARMACEUTICAL INDUSTRIES LTD (RANBAXY LABORATORIES LIMITED); Item Description: Lamivudine 150mg, tablets, 60 Tabs; Molecule/Test Type: Lamivudine; Brand: Generic; Dosage: 150mg; Dosage Form: Tablet; Unit of Measure (Per Pack): 60; Line Item Quantity: 31920; Line Item Value: 127360.8; Pack Price: 3.99; Unit Price: 0.07; Manufacturing Site: Ranbaxy, Paonta Shahib, India; First Line Designation: Yes; Weight (Kilograms): 1855; Freight Cost (USD): 16007.06; Line Item Insurance (USD): nan
+
+
